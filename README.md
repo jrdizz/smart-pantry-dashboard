@@ -31,7 +31,9 @@ Open a terminal in the **root** directory of the project and run:
 3. Install dependencies and start development server => 
     * npm install
     * npm run dev
-*The frontend will be typically available at http://localhost:5173.
+
+*The frontend will be typically available at `http://localhost:5173.`*
+
 ---
 
 ## Architecture Decisions 
